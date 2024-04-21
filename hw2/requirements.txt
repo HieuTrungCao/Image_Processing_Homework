@@ -1,0 +1,6 @@
+opencv-python
+ipywidgets
+numpy
+matplotlib
+scikit-image
+pillow
